@@ -1,4 +1,6 @@
-A Basic Golang Server is here to be your server base model
+# Golang Server
+
+    A Basic Golang Server is here to be your server base model
 
 *Project Workflow*
 
